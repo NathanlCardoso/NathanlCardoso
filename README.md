@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack & CyberSecurity`**
 
-Prazer! Me chamo Nathan, sou formado em Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas. Minha paixão pela tecnologia começou bem cedo. Ainda bem novinho, adorava fazer blogs e tutorial no YouTube para um público que tinha dificuldade com software ou hardware. Com isso, adquerir vasto conhecimento que abrange suporte técnico, software, hardware, redes, inflaestrutura, entre outros. Sou apaixonado por programação e cyber security. Uso Linux e minha distro é Ubuntu. 🐧 
+Prazer! Me chamo Nathan, sou formado em Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas. Minha paixão por tecnologia começou cedo: ainda criança, já criava blogs e produzia tutoriais no YouTube para ajudar pessoas com dificuldades em software e hardware.
+Com o tempo, adquiri um conhecimento amplo nas áreas de suporte técnico, redes, infraestrutura, hardware e sistemas operacionais. Sou apaixonado por programação e cibersegurança. No meu dia a dia, utilizo Linux como sistema principal, com preferência pela distribuição Ubuntu.  🐧 
 
 ---
 <img 
