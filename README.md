@@ -1,9 +1,9 @@
 # 👨‍💻 NATHAN CARDOSO 
 
-**`Desenvolvedor FullStack & CyberSecurity`**
+**`Estagiário de TI & estudante de CyberSecurity`**
 
 Prazer! Me chamo Nathan, sou formado em Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas. Minha paixão por tecnologia começou cedo: ainda criança, já criava blogs e produzia tutoriais no YouTube para ajudar pessoas com dificuldades em software e hardware.
-Com o tempo, adquiri um conhecimento amplo nas áreas de suporte técnico, redes, infraestrutura, hardware e sistemas operacionais. Sou apaixonado por programação e cibersegurança. No meu dia a dia, utilizo Linux como sistema principal, com preferência pela distribuição Ubuntu.  🐧 
+Com o tempo, adquiri um conhecimento amplo nas áreas de suporte técnico, redes, infraestrutura, hardware e sistemas operacionais. Sou apaixonado por desafios e solucinar problemas. Venho aprofundando-me em Segurança da Informação. No meu dia a dia, utilizo Linux como sistema principal, com preferência pela distribuição Ubuntu.  🐧 
 
 ---
 <img 
